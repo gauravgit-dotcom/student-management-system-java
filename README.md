@@ -25,4 +25,4 @@ A simple Java-based Student Management System that allows users to manage studen
 - Database integration (MySQL)
 
 ## Author
-Gaurav Kumar
+Gaurav Kumar.
